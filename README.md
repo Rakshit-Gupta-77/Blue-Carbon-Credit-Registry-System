@@ -1,4 +1,4 @@
-# 🌿 Veridian: Blue Carbon Credit Registry
+# 🌿 Blockchain Based Blue Carbon Credit Registry
 
 **Veridian** is a high-performance, blockchain-integrated platform designed to bring transparency, efficiency, and beauty to the blue carbon credit market. Built for NGOs, Governments, and Corporations, Veridian leverages the power of **Ethereum (Hardhat)** and **Supabase** to track the birth and lifecycle of carbon credits from coastal ecosystems.
 
