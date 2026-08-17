@@ -49,7 +49,7 @@ exports.register = async (req, res) => {
           email, 
           password: hashedPassword, 
           role: finalRole, 
-          wallet_address: walletAddress,
+          wallet_address: walletAddress || null,
           document_url,
           approved: isApproved 
         }
